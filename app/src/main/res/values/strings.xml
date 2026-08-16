@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="logo_description">Logo de la aplicación</string>
+    <string name="login_title">Inicio de sesión</string>
+    <string name="username_label">Nombre de usuario</string>
+    <string name="password_label">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="no_account_text">¿No tienes una cuenta?</string>
+    <string name="register_now_button">Regístrate ahora</string>
+    <string name="register_title">Crear cuenta</string>
+    <string name="full_name_label">Nombre completo</string>
+    <string name="register_button">Registrarte</string>
+    <string name="already_have_account_text">¿Ya tienes una cuenta?</string>
+    <string name="login_now_button">Inicia sesión ahora</string>
+</resources>
